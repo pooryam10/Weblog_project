@@ -23,7 +23,7 @@
         "express-ejs-layouts": "^2.5.0",
         "express-fileupload": "^1.2.1",
         "express-session": "^1.17.1",
-        "jalali-moment": "^3.3.9",
+        "jalali-moment": "^3.3.11",
         "jsonwebtoken": "^8.5.1",
         "mongoose": "^5.10.9",
         "morgan": "^1.10.0",
